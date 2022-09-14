@@ -14,6 +14,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'What is your email address?',
+        name: 'email',
+    },
+    {
+        type: 'input',
         message: 'What is the name of your project?',
         name: 'title',
     },
@@ -27,6 +32,11 @@ const questions = [
         message: 'What kind of license will your project use?',
         choices: ['MIT', 'GNU'],
         name: 'license',
+    },
+    {
+        type: 'input',
+        message: 'How should clients use your project?',
+        name: 'usage',
     },
     {
         type: 'input',

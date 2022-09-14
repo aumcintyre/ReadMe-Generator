@@ -15,20 +15,28 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Description
-  ${data.github}
+  ${data.description}
 
   ## Table of Contents
   *Links go here
 
   ## Installation
+  ${data.github}
 
   ## Usage
+  ${data.usage}
 
   ## License
+  ${data.license}
 
   ## Contributing
+  ${data.contributors}
 
   ## Tests
+  ${data.test}
+
+  ## Questions
+  ${data.github}
   
 
 `;
