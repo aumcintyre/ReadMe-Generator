@@ -29,9 +29,9 @@ const questions = [
     },
     {
         type: 'list',
+        name: 'license',
         message: 'What kind of license will your project use?',
         choices: ['MIT', 'GNU', 'Academic', 'Apache', 'Mozilla', 'Open'],
-        name: 'license',
     },
     {
         type: 'input',
@@ -67,6 +67,7 @@ function init() {
     inquirer.prompt(questions)
         .then((responses) => {
             console.log("SUCCESS");
+            console.log(responses.license);
             writeToFile('README.md', generateMarkdown({ ...responses }));
         })
 }

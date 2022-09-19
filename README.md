@@ -1,29 +1,34 @@
-# a
-  ![GitHub License](https://img.shields.io/badge/license-undefined)
+# ReadMe Generator
+  ![GitHub License](https://img.shields.io/badge/license-Apache)
   [License](#license)
 
   ## Description
-  a
+  This application allows a user to input  information based on a series of questions. That information will be compiled into a professionally formatted  readMe file.
 
   ## Table of Contents
-  *[License](#license)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contrinbuting](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
-  a
+  aumcintyre
 
   ## Usage
-  a
+  Users should answer each question with as much detailed information as possible. 
 
   ## License
-  This project is using the undefined license.
+  This project is using the Apache license.
 
 
   ## Contributing
-  a
+  Please read through the instructions before using this application.
 
   ## Tests
-  a
+  npm test
 
   ## Questions
-  a
+  aumcintyre
   
