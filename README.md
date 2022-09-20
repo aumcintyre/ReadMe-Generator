@@ -1,9 +1,9 @@
-# ReadMe Generator
-  ![GitHub License](https://img.shields.io/badge/license-Apache)
+# Professional ReadMe Generator
+  ![GitHub License](https://img.shields.io/badge/license-Academic)
   [License](#license)
 
   ## Description
-  This application allows a user to input  information based on a series of questions. That information will be compiled into a professionally formatted  readMe file.
+  This application will present the user with a series of quesiton prompts. Users will answer each question as prompted and the application will take the responses and format them into a professionally styled readMe file. 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,21 +14,21 @@
   * [Questions](#questions)
 
   ## Installation
-  aumcintyre
+  Users must first have node.js installed. From there, copy the repo to a local directory and open within Visual Studio Code. Then, open the index.js file in the integrated terminal and run the node command on it.
 
   ## Usage
-  Users should answer each question with as much detailed information as possible. 
+  Clients should answer each prompted question with as much detail as possible.
 
   ## License
-  This project is using the Apache license.
+  This project is using the Academic license.
 
 
   ## Contributing
-  Please read through the instructions before using this application.
+  Please read all instructions carefully and answer each question as completely as possible.
 
   ## Tests
-  npm test
+  NPM Test
 
   ## Questions
-  aumcintyre
+  If you have any questions, feel free to reach out to me @ aumcintyre!
   
